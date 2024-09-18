@@ -1,5 +1,7 @@
-# DevOps Capstone Template
-![Build Status](https://github.com/PixelGSD/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+ DevOps Capstone Template
+
+![Build Status](https://github.com/PixelGSD/devops-capstone-project2/actions/workflows/ci-build.yaml/badge.svg)
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
@@ -32,6 +34,10 @@ After sourcing it you prompt should look like this:
 ## Useful commands
 
 Under normal circumstances you should not have to run these commands. They are performed automatically at setup but may be useful when things go wrong:
+
+### Activate the Python 3.9 virtual environment
+
+You can activate the Python 3.9 environment with:l circumstances you should not have to run these commands. They are performed automatically at setup but may be useful when things go wrong:
 
 ### Activate the Python 3.9 virtual environment
 
