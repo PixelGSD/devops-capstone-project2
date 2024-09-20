@@ -16,11 +16,9 @@ db = SQLAlchemy()
 class DataValidationError(Exception):
     """Used for an data validation errors when deserializing"""
 
-
 def init_db(app):
     """Initialize the SQLAlchemy app"""
     Account.init_db(app)
-
 
 ######################################################################
 #  P E R S I S T E N T   B A S E   M O D E L
